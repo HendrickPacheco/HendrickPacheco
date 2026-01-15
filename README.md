@@ -5,7 +5,7 @@
 I am a software engineer with **6+ years of experience** building high-performance web platforms and distributed systems. While I actively develop **AI solutions**, my core expertise lies in architecting robust **Python Backends** and creating sophisticated **Frontend interfaces** using React, Next.js, Vue and Angular. I bridge the gap between traditional software engineering rigor and modern AI capabilities.
 
 * 🔭 I’m currently architecting **Scalable Full-Stack Applications** enriched with **Generative AI**.
-* 💻 My powerhouse stack includes **Python (FastAPI/Django)** paired with modern UIs using **React, Next.js, and Vue**.
+* 💻 My powerhouse stack includes **Python (FastAPI/Flask)** paired with modern UIs using **React, Next.js, Vue and Angular**.
 * ⚡ I specialize in **System Architecture**, focusing on async performance, microservices, and cloud scalability.
 * 🧠 Integrating **LLM Orchestration** (LangChain/CrewAI) into production-ready web solutions.
 
