@@ -54,11 +54,4 @@ I am a software engineer with **6+ years of experience** building high-performan
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-![Hendrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=HendrickPacheco&show_icons=true&theme=dracula&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HendrickPacheco&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
 [LinkedIn](https://www.linkedin.com/in/hendrickpach/) • [Email](mailto:hendrickpachdeveloper@gmail.com)
